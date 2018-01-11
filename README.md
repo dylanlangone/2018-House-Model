@@ -9,15 +9,14 @@ Simulation is done in R
 
 Data for the simulation is fed from the csv file.
 
-Column 1: each House district
-Column 2: 2017 PVI of the district
-Column 3: Projected two-party vote for Democratic candidate
-Column 4: National environment swing from a "normal" presidential election year
-Column 5: Current representative; 0 for GOP, 1 for Democrat
-Column 6-10: Description of results before and after election
-Column 11: Win probability for the Democratic candidate on a scale of 0 to 100.  Safe seats are negative for GOP and over 100 for Democrats.
-Column 12: Disregard
-Column 13: Generic ballot polling average from fivethirtyeight.com
-Column 14: National partisan lean of the nation as a whole (around 2% Democratic)
-Column 15: Reversion to the mean (for safety)
+Column A: each House district
+Column B: 2017 PVI of the district
+Column C: Projected two-party vote for Democratic candidate
+Column D: National environment swing from a "normal" presidential election year
+Column E: Current representative; 0 for GOP, 1 for Democrat
+Column F-J: Description of results before and after election
+Column K: Win probability for the Democratic candidate on a scale of 0 to 100.  Safe seats are negative for GOP and over 100 for Democrats.
+Column L: Disregard
+Column M: Generic ballot polling average from fivethirtyeight.com
+Column O: Reversion to the mean (for safety)
 
